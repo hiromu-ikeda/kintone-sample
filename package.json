@@ -51,7 +51,7 @@
     "webpack-dev-server": "^4.1.0"
   },
   "dependencies": {
-    "@kintone/rest-api-client": "^2.0.17",
+    "@kintone/rest-api-client": "^2.0.38",
     "core-js": "^3.6.4",
     "jquery": "^3.5.1",
     "react": "^17.0.2",
